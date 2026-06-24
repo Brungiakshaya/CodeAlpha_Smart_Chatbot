@@ -4,7 +4,7 @@ Greeting Responses
 Date & Time Information
 Interactive Conversations
 Rule-Based Logic
-User-Friendly Interface
+User-Friendly InterfacE
 Exit Command Support
 Technologies Used
 Python
